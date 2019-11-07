@@ -1,4 +1,4 @@
-# -auto_get_filestime
+# -auto_get_filesctime
 利用python批量获取文件的最早和最晚创建时间
 
 
