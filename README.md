@@ -6,7 +6,6 @@ import os
 import time
 import pandas as pd
 
-
 base_dir = path# 根目录
 filelist = os.listdir(base_dir)# 遍历路径下所有文件
 time_2 = []
